@@ -6,6 +6,6 @@ class Dog
 
 end
 
-fido = dog.new
+fido = Dog.new
 fido.name = "Fido"
 puts fido.breed = "Husky"
