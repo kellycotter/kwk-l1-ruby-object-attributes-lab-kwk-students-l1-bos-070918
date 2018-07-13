@@ -18,3 +18,4 @@ class Person
     @job
   
 end
+
